@@ -1,0 +1,2 @@
+python dns-check.py -f toutiao-com2.xls -d toutiao.com
+用于校验将从dnspod导出的域名解析记录，和导入到阿里云之后的解析结果进行比较。
